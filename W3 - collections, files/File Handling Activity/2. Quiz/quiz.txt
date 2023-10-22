@@ -1,0 +1,15 @@
+Question 1
+What is the capital of England?
+London
+Berlin
+Madrid
+Tokyo
+correct:London
+
+Question 2
+What is the capital of Kenya?
+Cairo
+Liberville
+Tokyo
+Nairobi
+correct:Nairobi
